@@ -5,6 +5,7 @@
 - 📍 ɪ ʟɪᴠᴇ ɪɴ ꜱᴘᴀɪɴ, ᴍᴀᴅʀɪᴅ
 - 👨‍🎓 ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ꜱᴛᴜᴅʏɪɴɢ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴏꜰ ᴍᴜʟᴛɪᴘʟᴀᴛꜰᴏʀᴍ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ ᴀᴛ ᴄᴏʟᴇɢɪᴏ ꜱᴀʟᴇꜱɪᴀɴᴏꜱ ᴅᴏᴍɪɴɢᴏ ꜱᴀᴠɪᴏ
 - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **ᴊᴀɪᴍᴇ.ɢᴀʀɪᴛᴀ.ᴄᴀᴍᴀʀɢᴏ@ɢᴍᴀɪʟ.ᴄᴏᴍ**
+- 🔧ɪ ᴀᴍ ᴀ ᴛᴇᴄʜɴɪᴄɪᴀɴ ɪɴ ᴍɪᴄʀᴏᴄᴏᴍᴘᴜᴛᴇʀ ꜱʏꜱᴛᴇᴍꜱ ᴀɴᴅ ɴᴇᴛᴡᴏʀᴋꜱ
 
 <h3 align="left">languages ​​I'm using: </h3>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
