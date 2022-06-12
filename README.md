@@ -1,24 +1,27 @@
-<h1 align="center">Hi 👋, I'm Jaime</h1>
-<h3 align="center">A passionate software developer from Spain</h3>
+<h1 align="center">𝗛𝗶 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, 𝗜'𝗺 𝗝𝗮𝗶𝗺𝗲</h1>
+<h3 align="center">𝘈 𝘱𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘧𝘳𝘰𝘮 𝘚𝘱𝘢𝘪𝘯</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimegarita&label=Profile%20views&color=0e75b6&style=flat" alt="jaimegarita" /> </p>
+## :book: 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
+- 📍 ɪ ʟɪᴠᴇ ɪɴ ꜱᴘᴀɪɴ, ᴍᴀᴅʀɪᴅ
+- 👨‍🎓 ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ꜱᴛᴜᴅʏɪɴɢ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴏꜰ ᴍᴜʟᴛɪᴘʟᴀᴛꜰᴏʀᴍ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ ᴀᴛ ᴄᴏʟᴇɢɪᴏ ꜱᴀʟᴇꜱɪᴀɴᴏꜱ ᴅᴏᴍɪɴɢᴏ ꜱᴀᴠɪᴏ
+- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **ᴊᴀɪᴍᴇ.ɢᴀʀɪᴛᴀ.ᴄᴀᴍᴀʀɢᴏ@ɢᴍᴀɪʟ.ᴄᴏᴍ**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimegarita" alt="jaimegarita" /></a> </p>
+<h3 align="left">languages ​​I'm using: </h3>
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
-- 🌱 I’m currently learning **Java, C and C++**
+<h3 align="left">ʟᴀɴɢᴜᴀɢᴇꜱ ʟᴇᴀʀɴɪɴɢ:</h3>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
-- 💬 Ask me about **C and C++**
+<h3 align="left">ᴛᴏᴏʟꜱ:</h3>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" width="40" height="40"/> </a>
+   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://redmine.cautivatech.com/redmine/attachments/download/538/vim-logo-png-transparent.png" alt="Vim" width="40" height="40"/> </a>  
+ 
+ ## :chart_with_upwards_trend: 𝗚𝗶𝘁𝗛𝘂𝗯 𝘀𝘁𝗮𝘁𝘀
+  <div align="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaimegarita&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox" alt="jaimegarita" /></p>
+  </div>
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaimegarita&show_icons=true&locale=en" alt="jaimegarita" /></p>
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="jaimegarita" />
