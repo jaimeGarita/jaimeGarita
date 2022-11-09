@@ -17,8 +17,8 @@
 <h3 align="left">ᴛᴏᴏʟꜱ:</h3>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" width="40" height="40"/> </a>
-   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://redmine.cautivatech.com/redmine/attachments/download/538/vim-logo-png-transparent.png" alt="Vim" width="40" height="40"/> </a>  
+  <a href="https://www.jetbrains.com/idea/download/#section=windows" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" width="40" height="40"/> </a>
+   <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://redmine.cautivatech.com/redmine/attachments/download/538/vim-logo-png-transparent.png" alt="Vim" width="40" height="40"/> </a>  
  
  ## :chart_with_upwards_trend: 𝗚𝗶𝘁𝗛𝘂𝗯 𝘀𝘁𝗮𝘁𝘀
   <div align="center">
