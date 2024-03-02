@@ -3,13 +3,14 @@
 
 ## :book: 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
 - 📍 ɪ ʟɪᴠᴇ ɪɴ ꜱᴘᴀɪɴ, ᴍᴀᴅʀɪᴅ
-- 👨‍🎓 ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ꜱᴛᴜᴅʏɪɴɢ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴏꜰ ᴍᴜʟᴛɪᴘʟᴀᴛꜰᴏʀᴍ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ ᴀᴛ ᴄᴏʟᴇɢɪᴏ ꜱᴀʟᴇꜱɪᴀɴᴏꜱ ᴅᴏᴍɪɴɢᴏ ꜱᴀᴠɪᴏ
+- 👨‍🎓 ɪ ʜᴀᴠᴇ ꜱᴛᴜᴅɪᴇᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴏꜰ ᴍᴜʟᴛɪᴘʟᴀᴛꜰᴏʀᴍ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ ᴀᴛ ᴄᴏʟᴇɢɪᴏ ꜱᴀʟᴇꜱɪᴀɴᴏꜱ ᴅᴏᴍɪɴɢᴏ ꜱᴀᴠɪᴏ
 - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **ᴊᴀɪᴍᴇ.ɢᴀʀɪᴛᴀ.ᴄᴀᴍᴀʀɢᴏ@ɢᴍᴀɪʟ.ᴄᴏᴍ**
 - 🔧ɪ ᴀᴍ ᴀ ᴛᴇᴄʜɴɪᴄɪᴀɴ ɪɴ ᴍɪᴄʀᴏᴄᴏᴍᴘᴜᴛᴇʀ ꜱʏꜱᴛᴇᴍꜱ ᴀɴᴅ ɴᴇᴛᴡᴏʀᴋꜱ
 
 <h3 align="left">languages ​​I'm using: </h3>
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
 <h3 align="left">ʟᴀɴɢᴜᴀɢᴇꜱ ʟᴇᴀʀɴɪɴɢ:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
